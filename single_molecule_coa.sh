@@ -4,15 +4,15 @@
 
 
 script_path="Bind_Modify/single_molecule"
-script_path="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/panel4_github_test/single_molecule"
+#script_path="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/panel4_github_test/single_molecule"
 run_path="./coA_heatmap/"
-run_path="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/panel4_github_test"
+#run_path="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/panel4_github_test"
 single_cov="merge_strand.cov.bgz"
-single_cov="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/2batch/merge_batch1_batch2/all_merge.cov.bgz"
+#single_cov="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/2batch/merge_batch1_batch2/all_merge.cov.bgz"
 interest_region="interest_region.bed"
-interest_region="list"
+#interest_region="list"
 anno_file="interest_region.xls"
-anno_file="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/interest_region.xls"
+#anno_file="/zfswh1/BC_RD_P0/P19Z12200N0089/2021/cut_modify/review/enhancer/promoter_up_2k/interest_region.xls"
 
 
 ##########################################################################
