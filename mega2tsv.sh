@@ -11,9 +11,8 @@ script_path="Bind_Modify/mega2tsv/"
 ##### 1.split chr
 mkdir -p ${run_path}/split_mega
 cd ${run_path}/split_mega/
-#python ${script_path}/split_mega.py --per_read_modified_base ${data_path}/per_read_modified_base_calls.txt  > split_mega.log
+python ${script_path}/split_mega.py --per_read_modified_base ${data_path}/per_read_modified_base_calls.txt  > split_mega.log
 
-python ${script_path}/split_mega.py --per_read_modified_base ${data_path}/per_read_modified_base_calls.txt.test  2> split_mega.log
 
 cd ..
 split_mega_path="${run_path}/split_mega/"
